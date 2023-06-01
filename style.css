@@ -143,7 +143,11 @@ button {
   padding: 20px;
   background-color: #303C58;
   cursor: pointer;
+  transition: .4s;
 }
+button:hover {
+background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+ }
 .df {
   display: flex;
   align-items: center;
