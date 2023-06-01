@@ -13,7 +13,7 @@
 }
 .box {
   width: 60%;
-  height: 50dvh;
+  height: 50vh;
   border-radius: 27px;
   box-shadow:rgba(0, 0, 0, 0.1) 9px 7px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
   display: flex;
@@ -160,7 +160,7 @@ p {
 }
 @media (max-width: 767px) {
   .box {
-    height: 100dvh;
+    height: 100vh;
     width: 100%;
     flex-direction: column;
     flex-wrap: wrap;
